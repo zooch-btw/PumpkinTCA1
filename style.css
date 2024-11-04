@@ -53,7 +53,7 @@ body {
 }
 
 .pumpkin .root {
-    background: #517f54;
+    background: black;
     height: 2.8em;
     width: 1.25em;
     position: absolute;
@@ -164,7 +164,9 @@ border-right: 2.4em solid #401b03;
     0%, 100% {
         transform: scale(1);
     }
-    50% (
+    50% {
         transform: scale(0.8);
-    )
+    }
+       
+    
 }
