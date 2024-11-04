@@ -106,7 +106,7 @@ border-right: 2.4em solid #401b03;
 }
 
 .pumpkin .teeth {
-    border-left: 0.8em solid #401b03;
+    border-left: 0.8em solid blue;
     border-bottom: 0 solid transparent;
     border-top: 0.8em solid transparent;
     width: 0.5em;
@@ -139,12 +139,12 @@ border-right: 2.4em solid #401b03;
     top: -0.65em;
     transform: rotate(30deg);
     border-bottom: 0.5em solid transparent;
-    border-left: 1em solid #401b03;
+    border-left: 1em solid yellow;
 }
 
 .shadow {
     margin: 10% auto 0;
-    background: #000;
+    background: grey;
     width: 230px;
     height: 50px;
     border-radius: 50%;
